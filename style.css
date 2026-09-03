@@ -81,6 +81,18 @@
     border:2px solid orange;
 }
 
+/**language**/
+.nav-lang{
+    display: flex;
+    align-items: center;
+    gap:4px;
+    padding:8px;
+    font-size: 0.85rem;
+    font-weight: 700;
+}
+.nav-lang .fa-caret-down{
+    color:#cccccc;
+}
 /**box4**/
 span{
     font-size: 0.7rem;
